@@ -1,0 +1,14 @@
+edu\spertus\awsIngestWeather\TestUtils$1.class
+edu\spertus\awsIngestWeather\TestUtils$DynamodbEventMixin$RecordMixin.class
+edu\spertus\awsIngestWeather\TestContext.class
+edu\spertus\awsIngestWeather\TestUtils$DateTimeDeserializer.class
+edu\spertus\awsIngestWeather\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+edu\spertus\awsIngestWeather\TestUtils$DynamodbEventMixin.class
+edu\spertus\awsIngestWeather\TestUtils$TestJacksonMapperModule.class
+edu\spertus\awsIngestWeather\TestUtils.class
+edu\spertus\awsIngestWeather\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+edu\spertus\awsIngestWeather\TestUtils$DateTimeSerializer.class
+edu\spertus\awsIngestWeather\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+edu\spertus\awsIngestWeather\TestContext$TestLogger.class
+edu\spertus\awsIngestWeather\LambdaFunctionHandlerTest.class
+edu\spertus\awsIngestWeather\TestContext$1.class

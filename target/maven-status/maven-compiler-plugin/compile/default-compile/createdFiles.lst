@@ -1,0 +1,6 @@
+edu\spertus\awsIngestWeather\Transform$MissingDataException.class
+edu\spertus\awsIngestWeather\LambdaFunctionHandler.class
+edu\spertus\awsIngestWeather\Transform.class
+edu\uchicago\WeatherSummary$1.class
+edu\uchicago\WeatherSummary$Builder.class
+edu\uchicago\WeatherSummary.class
